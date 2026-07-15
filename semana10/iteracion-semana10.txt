@@ -1,0 +1,23 @@
+¿Qué 2 tareas del backlog harías primero?
+
+-Historia C (alertas en tiempo real) : como coordinador de veeduria
+  quiero recibir un mensaje automatico en telegram cada vez que se registre
+  un caso grave para atenderlo de inmediato.
+
+
+  -Historia D ( transparencia) : como ciudadano quiero ver el estado actualizado
+   de mis reportes enviados para saber si ya se están tomando medidas.
+
+
+
+¿Por qué son las más importantes?
+
+son importantes por que debe darse solución en los tiempos adecuados o requeridos
+y debemos estar revisando para tomar medidas pertinentes.
+
+
+Qué significa para ti que una tarea esté “terminada”?
+
+una tarea está realizada cuando ya hemos ejecutado una ruta a realizar.
+ organizar,realizar, ejecutar y verificar.
+ cumplir objetivo.

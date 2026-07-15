@@ -1,0 +1,17 @@
+-Historia A ( reporte basico) : como ciudadano quiero reportar un daño en el espacio publico con una foto y descripción
+ para que la junta comunal conozca la situación.
+
+
+ -Historia B (gestión consulta) : como lider comunitario quiero ver un listado 
+ de todos los reportes activos para organizar las jornadas de solución.
+
+
+ -Historia C (alertas en tiempo real) : como coordinador de veeduria
+  quiero recibir un mensaje automatico en telegram cada vez que se registre
+  un caso grave para atenderlo de inmediato.
+
+
+  -Historia D ( transparencia) : como ciudadano quiero ver el estado actualizado
+   de mis reportes enviados para saber si ya se están tomando medidas.
+
+ 
